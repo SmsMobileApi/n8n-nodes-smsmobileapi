@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.1 — 2026-11-26
+
+- Publish the same tested nodes through GitHub Actions with npm provenance.
+- Require maintainer approval before each version becomes available on npm.
+
 ## 0.1.0 — 2026-11-26
 
 - Initial SMSMobileAPI community nodes for n8n.
